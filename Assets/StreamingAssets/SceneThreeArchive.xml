@@ -1,0 +1,26 @@
+<save name="fielSceneOne">
+  <colliders>
+    <Stabs>
+      <Stab>False</Stab>
+    </Stabs>
+    <Stabs>
+      <Stab>False</Stab>
+    </Stabs>
+    <Stabs>
+      <Stab>False</Stab>
+    </Stabs>
+    <Stabs>
+      <Stab>False</Stab>
+    </Stabs>
+    <Stabs>
+      <Stab>False</Stab>
+    </Stabs>
+    <Stabs>
+      <Stab>False</Stab>
+    </Stabs>
+    <Stabs>
+      <Stab>False</Stab>
+    </Stabs>
+  </colliders>
+  <PlayerTransfrom>4#4</PlayerTransfrom>
+</save>
